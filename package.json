@@ -1,0 +1,21 @@
+{
+  "name": "somy-i18n",
+  "version": "1.0.0",
+  "description": "internationalization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MD. Jahidul Islam <jsec516@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "intl": "^1.2.5",
+    "intl-messageformat": "^1.3.0",
+    "lodash": "^4.17.4",
+    "somy-logger": "git+https://github.com/jsec516/somy-logger#master"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

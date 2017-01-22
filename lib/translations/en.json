@@ -1,0 +1,33 @@
+{
+  "errors": {
+    "call": {
+      "empty": {
+        "receiver": "no user phone number provided in which we can call",
+        "sender": "no system phone number provider from where it can call",
+        "url": "no url provided from where we can get call content"
+      }
+    },
+    "general": {
+      "moreInfo": "\nMore info: {info}"
+    },
+    "mail": {
+      "failedSendingEmail": {
+        "error": "Error: Failed to send email"
+      },
+      "incompleteMessageData": {
+        "error": "Error: Incomplete message data."
+      },
+      "messageNotSent": {
+        "error" : "Error: Message could not be sent"
+      },
+      "noMailServerAtAddress": {
+        "error": " - no mail server found at {domain}"
+      }
+    }
+  },
+  "notices": {
+    "mail": {
+      "messageSent": "Message sent. Double check inbox and spam folder!"
+    }
+  }
+}
