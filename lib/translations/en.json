@@ -28,6 +28,9 @@
   "notices": {
     "mail": {
       "messageSent": "Message sent. Double check inbox and spam folder!"
+    },
+    "reminder": {
+      "sent": "Reminder has been sent successfully."
     }
   }
 }
